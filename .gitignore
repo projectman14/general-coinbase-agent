@@ -1,0 +1,5 @@
+# To prevent API keys from being exposed
+.env
+
+# Large files, can be installed through npm install
+node_modules/
